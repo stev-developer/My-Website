@@ -20,3 +20,9 @@ document.addEventListener("DOMContentLoaded", function() {
     // Show each paragraph one by one
     setInterval(showNextParagraph, 5000); // Adjust the interval time (in milliseconds) as needed
 });
+
+
+function send() {
+    alert("Success..")
+
+}
